@@ -7,7 +7,7 @@ class: center, middle, inverse
 ---
 # そもそもnpmってなに？
 ---
-## npmって？
+## Node Package Managerのこと
 ### スライド１
 ２ページ目
 
